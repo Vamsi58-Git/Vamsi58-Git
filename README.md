@@ -89,7 +89,7 @@
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/Vamsi58-Git/Vamsi58-Git/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Vamsi58-Git/Vamsi58-Git/output/github-contribution-grid-snake.svg)
 
 ---
 
