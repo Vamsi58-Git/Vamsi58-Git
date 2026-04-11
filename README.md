@@ -76,20 +76,3 @@
 </p>
 
 ---
-
-# 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsi58-Git&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/Vamsi58-Git/Vamsi58-Git/output/github-contribution-grid-snake.svg)
-
----
-
