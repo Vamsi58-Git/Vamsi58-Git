@@ -31,15 +31,6 @@
 
 🔭 Currently building **Web Projects & Data Science Models**
 
----
-## 💡 Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
-</p>
-
----
 
 ## ⚡ Tech Arsenal
 
@@ -63,16 +54,3 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vamsi58-Git&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamsi58-Git&theme=tokyonight" />
-
-</p>
-
----
