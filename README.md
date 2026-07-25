@@ -54,3 +54,26 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
+```text
+                   .--.
+                  |o_o |
+                  |:_/ |
+                 //   \ \
+                (|     | )
+               /'\_   _/`\
+               \___)=(___/
+
+╭────────────────────────────────────────────╮
+│ User      : Vamsi Krishna                  │
+│ OS        : Windows 11                     │
+│ Kernel    : MirAI B.Tech Student           │
+│ Uptime    : 20 Years                       │
+│ Languages : Python, JavaScript, C, C++     │
+│ Framework : React, Bootstrap, Tailwind     │
+│ Interests : AI, Data Science, Web Dev      │
+│ IDE       : VS Code                        │
+│ Contact   : vamsikrishna181700@gmail.com   │
+╰────────────────────────────────────────────╯
+```
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Vamsi58-Git&theme=tokyonight)
